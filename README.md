@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba👋, Ben Beyza ATAY</h1>
-<h3 align="center">yazılım mühendisliği öğrencisiyim ve teknolojiyi keşfetmeyi seviyorum. Sürekli yeni şeyler öğrenerek kendimi geliştirmeye çalışıyorum.</h3>
+<h3 align="center">Yazılım mühendisliği öğrencisiyim ve teknolojiyi keşfetmeyi seviyorum. Sürekli yeni şeyler öğrenerek kendimi geliştirmeye çalışıyorum.</h3>
 
 
 
